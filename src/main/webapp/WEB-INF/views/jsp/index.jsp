@@ -40,8 +40,8 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome to BADBEAT SOFTWARE PRIVATE LIMITED</h2>
-			<h3>vmamidela@gmail.com</h3>
+			<h2>EnLume Technologies Pvt Ltd.</h2>
+			<h3>Plot No.19 & 20, Rd Number 1, Shivani Nagar Colony, Nagole, Hyderabad, Telangana 500068</h3>
 		</div>	
 	</div>
 
